@@ -1,1 +1,3 @@
-Fauxica landing page
+## Fauxica landing page
+
+[Live demo](https://fauxica-xxx.netlify.app/)
